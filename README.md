@@ -36,7 +36,7 @@ This is repository to become Postman Pro.
 * [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/)
 
 ### Newman
-* [REST API Testing using Postman & Newman Essential Guide] (https://blog.testproject.io/2020/03/31/rest-api-testing-using-postman-newman-guide/)
+* [REST API Testing using Postman & Newman Essential Guide](https://blog.testproject.io/2020/03/31/rest-api-testing-using-postman-newman-guide/)
 
 ## Books
 ### Postman
