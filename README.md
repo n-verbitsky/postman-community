@@ -1,4 +1,4 @@
-# postman-belorussian-community
+# postman-community
 
 ## About
 This is repository to become Postman Pro.
@@ -41,6 +41,8 @@ This is repository to become Postman Pro.
 ## Books
 ### Postman
 * [Postman Quick Reference Guide](https://postman-quick-reference-guide.readthedocs.io/en/latest/)
+* [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
+*
 
 ### REST
 * [Automating and Testing a REST API](https://www.eviltester.com/page/books/#automating-and-testing-a-rest-api)
@@ -62,6 +64,11 @@ This is repository to become Postman Pro.
 
 ### Postman
 * [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/)
+
+### JS
+* [Freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+* [Курс лекций по JavaScript и Node.js в КПИ](https://habr.com/ru/post/434686/)
+* [Основы ES6](https://www.youtube.com/watch?v=4YfsAz-sNAo&list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q)
 
 ## FAQ
 * [How to Write Global Functions in Postman](https://stackoverflow.com/questions/45673961/how-to-write-global-functions-in-postman)
