@@ -42,7 +42,6 @@ This is repository to become Postman Pro.
 ### Postman
 * [Postman Quick Reference Guide](https://postman-quick-reference-guide.readthedocs.io/en/latest/)
 * [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
-*
 
 ### REST
 * [Automating and Testing a REST API](https://www.eviltester.com/page/books/#automating-and-testing-a-rest-api)
@@ -67,6 +66,7 @@ This is repository to become Postman Pro.
 
 ### JS
 * [Freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+* [W3C JavaScript Tutorial](https://www.w3schools.com/js/)
 * [Курс лекций по JavaScript и Node.js в КПИ](https://habr.com/ru/post/434686/)
 * [Основы ES6](https://www.youtube.com/watch?v=4YfsAz-sNAo&list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q)
 
