@@ -4,7 +4,8 @@
 This is repository to become Postman Pro.
 
 ## Telegram
-* [Russian chat](https://t.me/postman_by)
+* [Postman chat](https://t.me/postman_by)
+* [GraphQL chat](https://t.me/graphql_ru)
 
 ## Documentation
 
@@ -26,8 +27,24 @@ This is repository to become Postman Pro.
 * [Newman on GitHub](https://github.com/postmanlabs/newman)
 * [Newman HTML Reporter on GitHub](https://github.com/postmanlabs/newman-reporter-html)
 
+### GraphQL
+* [GraphQL](https://graphql.org)
+* [Appollo](https://www.apollographql.com/)
+* [Relay](https://relay.dev/)
+
+### REST
+* [Architectural Styles and the Design of Network-based Software Architectures by Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+* [REST API Tutorial](https://restfulapi.net/)
+
+### SOAP
+* [Simple Object Access Protocol (SOAP) 1.1](https://www.w3.org/TR/2000/NOTE-SOAP-20000508/)
+
 ### JS
 * [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Contract Testing
+* [PACT](https://pact.io/)
+* [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
 
 ## Articles
 
@@ -50,15 +67,22 @@ This is repository to become Postman Pro.
 ### JS
 * [You don't know JS: first edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 
-## Meetups
-* [POST/CON 2019 - Workshops](https://www.youtube.com/playlist?list=PLM-7VG-sgbtDGtFLxZ_mU8hQO8PWnfSgh)
-
 ## Videos
 
 ### Postman
 * [New to Postman](https://www.youtube.com/watch?v=YKalL1rVDOE&list=PLM-7VG-sgbtBsenu0CM-UF3NZj3hQFs7E)
 * [Postman Youtube Channel](https://www.youtube.com/channel/UCocudCGVb3MmhWQ1aoIgUQw/playlists)
 * [Valentin Despa Learn Postman](https://www.youtube.com/watch?v=FjgYtQK_zLE&list=PL6iUkDSEH9SvsgM4zyFrTnaewN65NZHAG)
+* [POST/CON 2019 - Workshops](https://www.youtube.com/playlist?list=PLM-7VG-sgbtDGtFLxZ_mU8hQO8PWnfSgh)
+
+### GraphQL
+* [GraphQL overview by Alexander Zenkovich](https://www.youtube.com/watch?v=8dIh6AZMFWI)
+* [Павел Черторогов — ApolloClient или Relay с фрагментами, «волосатый» GraphQL и TypeScript](https://www.youtube.com/watch?v=VdoPraj0QqU&t=1649s)
+* [Тяжелое утро с Holy JS #2](https://www.youtube.com/watch?v=ar7-HXBYfnk)
+
+### Contract Testing
+* [Pact Tutorials - Welcome To Pact - Beginner 01](https://www.youtube.com/watch?v=BedEHtwLLes)
+* [Contract Tests in the Enterprise. Marcin Grzejszczak, Pivotal](https://www.youtube.com/watch?v=yQjcDlibdWM)
 
 ## Podcasts
 
@@ -68,6 +92,9 @@ This is repository to become Postman Pro.
 ### QA Guild
 * [EP-1: Microservices Testing](https://soundcloud.com/qaguild/ep-1-microservices-testing)
 * [S2E11: Про тестирование контрактов](https://soundcloud.com/qaguild/s2e11)
+
+### Radio-QA
+* [Выпуск 39: API. Будьте здоровы!](http://radio-qa.com/api-testing/)
 
 ### Podlodka
 * [Podlodka Special – The Philosophy Behind Microservices](https://soundcloud.com/podlodka/podlodka-special-the-philosophy-behind-microservices)
@@ -79,7 +106,11 @@ This is repository to become Postman Pro.
 ### Postman
 * [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/)
 
+### Java
+* [Contract testing training by Sergey Pirogov](https://automation-remarks.com/trainings/contract-testing/index.html)
+
 ### JS
+* [Beginner's Series to: JavaScript by Microsoft](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript)
 * [Freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 * [W3C JavaScript Tutorial](https://www.w3schools.com/js/)
 * [Курс лекций по JavaScript и Node.js в КПИ](https://habr.com/ru/post/434686/)
@@ -96,7 +127,10 @@ This is repository to become Postman Pro.
 * [newman-reporter-html](https://github.com/postmanlabs/newman-reporter-html)
 * [newman-reporter-testrail](https://github.com/billylam/newman-reporter-testrail#readme)
 
-### FAQ
+## FAQ
 * [How to Write Global Functions in Postman](https://stackoverflow.com/a/45678770/11922633)
 * [Is there a way to check Pre-request Scripts and Tests with ESLint?](https://stackoverflow.com/q/61938022/11922633)
 * [Is there an effective way to review code written in Postman?](https://stackoverflow.com/q/58595350/11922633)
+* [How to run Collections in parallel #1](https://stackoverflow.com/questions/42998227/run-postman-or-newman-collection-runner-iterations-in-parallel)
+* [How to run Collections in parallel #2](https://github.com/postmanlabs/newman/blob/896a7b61955ee59bc8bfcfa144e7c5aa3639194e/examples/parallel-collection-runs.js)
+* [How to use Promises in Postman](https://stackoverflow.com/a/53934401)
